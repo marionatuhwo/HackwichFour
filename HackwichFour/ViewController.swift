@@ -10,9 +10,16 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    override func viewDidLoad() {
+    @IBOutlet weak var firstTabLabel: UILabel!
+    override func viewDidLoad()
+    {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+        //PART 7E
+        //when the app first opens up, we want to set the labelʻs text to "About"
+        firstTabLabel.text = "About"
+        
     }
 
 
