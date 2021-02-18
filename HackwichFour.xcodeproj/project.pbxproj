@@ -16,6 +16,7 @@
 		D007681425D321C30071B3C2 /* HackwichFourTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D007681325D321C30071B3C2 /* HackwichFourTests.swift */; };
 		D007681F25D321C30071B3C2 /* HackwichFourUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D007681E25D321C30071B3C2 /* HackwichFourUITests.swift */; };
 		D007682D25D3279F0071B3C2 /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D007682C25D3279F0071B3C2 /* secondViewController.swift */; };
+		D0C81E5B25DB297700D97714 /* thirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C81E5A25DB297700D97714 /* thirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		D007681E25D321C30071B3C2 /* HackwichFourUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwichFourUITests.swift; sourceTree = "<group>"; };
 		D007682025D321C30071B3C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D007682C25D3279F0071B3C2 /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
+		D0C81E5A25DB297700D97714 /* thirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				D00767FE25D321BE0071B3C2 /* SceneDelegate.swift */,
 				D007680025D321BE0071B3C2 /* ViewController.swift */,
 				D007680225D321BE0071B3C2 /* Main.storyboard */,
+				D0C81E5A25DB297700D97714 /* thirdViewController.swift */,
 				D007682C25D3279F0071B3C2 /* secondViewController.swift */,
 				D007680525D321C20071B3C2 /* Assets.xcassets */,
 				D007680725D321C20071B3C2 /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 			files = (
 				D007682D25D3279F0071B3C2 /* secondViewController.swift in Sources */,
 				D007680125D321BE0071B3C2 /* ViewController.swift in Sources */,
+				D0C81E5B25DB297700D97714 /* thirdViewController.swift in Sources */,
 				D00767FD25D321BE0071B3C2 /* AppDelegate.swift in Sources */,
 				D00767FF25D321BE0071B3C2 /* SceneDelegate.swift in Sources */,
 			);

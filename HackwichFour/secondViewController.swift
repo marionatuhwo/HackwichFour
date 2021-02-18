@@ -13,6 +13,10 @@ class secondViewController: UIViewController {
     @IBOutlet weak var secondTabLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        //<-----PART 10 #1 Change the label’s text in the second tab to “My Classes” in code (2 points)-->
+
+        secondTabLabel.text = "My Classes"
 
         // Do any additional setup after loading the view.
     }
